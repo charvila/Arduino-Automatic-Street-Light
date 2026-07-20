@@ -31,12 +31,6 @@ This project demonstrates how an Arduino Uno can be used to automate street ligh
 
 ---
 
-# Circuit Diagram
-
-![Arduino Automatic Street Light](tinkercad-circuit.png)
-
----
-
 # Working Principle
 
 1. The Arduino reads the light intensity from the LDR.
